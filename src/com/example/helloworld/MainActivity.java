@@ -47,9 +47,6 @@ public class MainActivity extends ActionBarActivity {
 			View rootView = inflater.inflate(R.layout.fragment_main, container,
 					false);
 			return rootView;
-			
-			nishi shdfslk;agjkdsjglg;ajdgkdasf;
-			我是你没你刷卡了对方哈，速度更快JHGLKSDALGH;AJLGAJIODFSGIOSDUFG老大就是卡了很高的分数空间
 		}
 	}
 
